@@ -1,0 +1,73 @@
+[{
+    "name":"sathish",
+    "age": 20,
+    "email": "sathish@gmail.com",
+    "department": "mechanical",
+    "batch": 1,
+    "id":"1"
+},
+{
+    "name":"ram",
+    "age": 20,
+    "email": "ram@gmail.com",
+    "department": "EEE",
+    "batch": 2,
+    "id":"2"
+},
+{
+    "name":"vignesh",
+    "age": 20,
+    "email": "vignesh@gmail.com",
+    "department": "mechanical",
+    "batch": 3,
+    "id":"3"
+},{
+    "name":"adithan",
+    "age": 20,
+    "email": "adi@gmail.com",
+    "department": "CSE",
+    "batch": 2,
+    "id":"4"
+},{
+    "name":"ajith kumar",
+    "age": 20,
+    "email": "ajith@gmail.com",
+    "department": "civil",
+    "batch": 2,
+    "id":"5"
+},{
+    "name":"vijay",
+    "age": 20,
+    "email": "vijay@gmail.com",
+    "department": "ECE",
+    "batch": 1,
+    "id":"6"
+},{
+    "name":"abinesh",
+    "age": 20,
+    "email": "ram@gmail.com",
+    "department": "CSE",
+    "batch": 1,
+    "id":"7"
+},{
+    "name":"ranjani",
+    "age": 20,
+    "email": "ranju@gmail.com",
+    "department": "CSE",
+    "batch": 3,
+    "id":"8"
+},{
+    "name":"veera ragavan",
+    "age": 20,
+    "email": "veeramail.com",
+    "department": "mechanical",
+    "batch": 3,
+    "id":"9"
+},{
+    "name":"vinoth",
+    "age": 20,
+    "email": "vinoth@gmail.com",
+    "department": "mechanical",
+    "batch": 1,
+    "id":"10"
+}]

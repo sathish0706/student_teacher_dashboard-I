@@ -1,0 +1,72 @@
+.button {
+  width: 400px;
+  padding: 10px;
+  color: rgb(245, 245, 243);
+  font-size: 30px;
+  margin-top: 50px;
+  margin-left: 200px;
+  display: flex;
+  align-content: space-between;
+  justify-content: center;
+  cursor: pointer;
+  background-color: rgb(105, 16, 90);
+  border-radius: 5px;
+  float: left;
+}
+#h3 {
+  font-size: 25px;
+  opacity: 0.4;
+  text-align: center;
+  color: blue;
+}
+.student-detail-container {
+  /* box-shadow: 4px 16px 160px 8px rgb(58, 56, 56); */
+  width: 400px;
+  margin-left: 550px;
+  margin-top: 15vh;
+  box-shadow: 10px 26px 26px 4px rgba(0, 0, 0, 0.623);
+  transition: 0.3s;
+  padding: 20px;
+  border: 1px solid green;
+  text-align: center;
+}
+.student-detail-container:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+#headline {
+  font-size: 30px;
+  color: brown;
+  font-weight: 600;
+  text-align: center;
+  /* margin-top: 200px; */
+}
+
+.add-container {
+  display: flex;
+  align-content: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 5vh;
+  margin-left: 30vw;
+  box-shadow: 10px 26px 26px 4px rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  width: 550px;
+  height: 500px;
+}
+.text-field {
+  width: 500px;
+
+  margin-top: 30px;
+}
+.add-container > b {
+  text-align: center;
+  font-size: 25px;
+  color: rgb(160, 95, 149);
+  padding-bottom: 30px;
+}
+#action {
+  display: flex;
+  justify-content: space-evenly;
+}
